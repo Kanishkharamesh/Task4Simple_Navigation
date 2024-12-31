@@ -30,21 +30,22 @@ const Home = () => {
         <div className="feature-list">
           <div className="feature-item">
             <i className="feature-icon">🌟</i>
-            <h3>Service One</h3>
-            <p>Detail about Service One.</p>
+            <h3>Web Development</h3>
+            <p>We build modern, responsive, and user-friendly websites tailored to your needs.</p>
           </div>
           <div className="feature-item">
             <i className="feature-icon">🚀</i>
-            <h3>Service Two</h3>
-            <p>Detail about Service Two.</p>
+            <h3>Digital Marketing</h3>
+            <p>Boost your business visibility with SEO, social media, and content strategies.</p>
           </div>
           <div className="feature-item">
             <i className="feature-icon">💼</i>
-            <h3>Service Three</h3>
-            <p>Detail about Service Three.</p>
+            <h3>IT Consulting</h3>
+            <p>Expert advice to optimize your IT infrastructure and achieve your business goals.</p>
           </div>
         </div>
       </section>
+
 
       {/* Call to Action Section */}
       <section className="cta">
